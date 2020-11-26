@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 2891532928093774195, guid: eaf5fe4be3c6f12408b987444bdc44e1,
         type: 3}
       propertyPath: m_Name
-      value: FirtsButton
+      value: FirtsButton Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2891532928093774204, guid: eaf5fe4be3c6f12408b987444bdc44e1,
         type: 3}
@@ -116,6 +116,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891532928183734904, guid: eaf5fe4be3c6f12408b987444bdc44e1,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891532928183734904, guid: eaf5fe4be3c6f12408b987444bdc44e1,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891532928183734904, guid: eaf5fe4be3c6f12408b987444bdc44e1,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891532928183734904, guid: eaf5fe4be3c6f12408b987444bdc44e1,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891532928183734905, guid: eaf5fe4be3c6f12408b987444bdc44e1,
+        type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eaf5fe4be3c6f12408b987444bdc44e1, type: 3}
